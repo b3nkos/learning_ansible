@@ -1,0 +1,11 @@
+ontario.example.com
+newhampshire.example.com
+maryland.example.comvirginia.example.com
+newyork.example.com
+quebec.example.com
+rhodeisland.example.com
+
+[vagrant]
+vagrant1 ansible_host=127.0.0.1 ansible_port=2222
+vagrant2 ansible_host=127.0.0.1 ansible_port=2200
+vagrant3 ansible_host=127.0.0.1 ansible_port=2201
