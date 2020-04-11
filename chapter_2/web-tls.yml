@@ -1,4 +1,4 @@
-- name: COnfigure webserver with nginx and tls
+- name: Configure webserver with nginx and tls
   hosts: webservers
   become: True
   vars:
